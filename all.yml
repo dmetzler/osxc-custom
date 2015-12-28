@@ -129,6 +129,8 @@
   - role: cask_package
     package_name: mumble
   - role: cask_package
+    package_name: xld
+  - role: cask_package
     package_name: ios7-screensaver
   - role: cask_package    
     package_name: openoffice
