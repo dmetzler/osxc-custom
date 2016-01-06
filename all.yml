@@ -150,6 +150,9 @@
     package_name: adobe-reader
   - role: cask_package
     package_name: gitup
+  - role: cask_package
+    package_name: resolutionator
+
 
 
   
